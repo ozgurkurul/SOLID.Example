@@ -1,0 +1,15 @@
+C:\Githubs\SOLIDs\SOLIDs\obj\Debug\net7.0\SOLIDs.csproj.AssemblyReference.cache
+C:\Githubs\SOLIDs\SOLIDs\obj\Debug\net7.0\SOLIDs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Githubs\SOLIDs\SOLIDs\obj\Debug\net7.0\SOLIDs.AssemblyInfoInputs.cache
+C:\Githubs\SOLIDs\SOLIDs\obj\Debug\net7.0\SOLIDs.AssemblyInfo.cs
+C:\Githubs\SOLIDs\SOLIDs\obj\Debug\net7.0\SOLIDs.csproj.CoreCompileInputs.cache
+C:\Githubs\SOLIDs\SOLIDs\bin\Debug\net7.0\SOLIDs.exe
+C:\Githubs\SOLIDs\SOLIDs\bin\Debug\net7.0\SOLIDs.deps.json
+C:\Githubs\SOLIDs\SOLIDs\bin\Debug\net7.0\SOLIDs.runtimeconfig.json
+C:\Githubs\SOLIDs\SOLIDs\bin\Debug\net7.0\SOLIDs.dll
+C:\Githubs\SOLIDs\SOLIDs\bin\Debug\net7.0\SOLIDs.pdb
+C:\Githubs\SOLIDs\SOLIDs\obj\Debug\net7.0\SOLIDs.dll
+C:\Githubs\SOLIDs\SOLIDs\obj\Debug\net7.0\refint\SOLIDs.dll
+C:\Githubs\SOLIDs\SOLIDs\obj\Debug\net7.0\SOLIDs.pdb
+C:\Githubs\SOLIDs\SOLIDs\obj\Debug\net7.0\SOLIDs.genruntimeconfig.cache
+C:\Githubs\SOLIDs\SOLIDs\obj\Debug\net7.0\ref\SOLIDs.dll
